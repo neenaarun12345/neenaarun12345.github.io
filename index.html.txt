@@ -1,0 +1,152 @@
+
+<!DOCTYPE html><html lang='en' class=''>
+<head><script src='https://static.codepen.io/assets/editor/live/console_runner-1df7d3399bdc1f40995a35209755dcfd8c7547da127f6469fd81e5fba982f6af.js'></script><script src='https://static.codepen.io/assets/editor/live/css_reload-5619dc0905a68b2e6298901de54f73cefe4e079f65a75406858d92924b4938bf.js'></script><meta charset='UTF-8'><meta name="robots" content="noindex"><link rel="shortcut icon" type="image/x-icon" href="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" /><link rel="mask-icon" type="" href="https://static.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111" /><link rel="canonical" href="https://codepen.io/johnsonjpj/pen/MwQqLN" />
+<link rel='stylesheet' href="https://jacobjohnson.net/css/custom.css"><link rel='stylesheet' href="https://jacobjohnson.net/css/freelancer.css"><link rel='stylesheet' href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
+<style class="cp-pen-styles">* {
+  font-family:'Roboto',sans-serif;
+  	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+#resHead {
+  text-align:center;
+  background-color:#383839;
+  color:#fff;
+  padding:5%;
+}
+
+#resHead h3 {
+  color:#BABBBE;
+  font-size:17px;
+}
+
+#resHead h1 {
+  font-weight:bold;
+  font-size:35px;
+}
+
+h1 {
+  margin-top:10px;
+   font-weight:bold;
+}
+#workExp, #skillEdu {
+  margin:20px 0px 5px 0px;
+  padding-left:40px;
+  padding-right:40px;
+}
+
+
+.contact {
+  background-color:#383839;
+  color:#fff;
+  margin-top:30px;
+}
+
+.contact .title, .contact .subtitle {
+  color:#fff;
+  text-align:center;
+}
+.contact .title {
+  margin-top:15px;
+  margin-bottom:15px;
+}
+
+.contact img {
+  margin: 0 auto;
+  padding:15px 15px 0px 15px;
+
+}
+
+.contact p {
+  margin-bottom:15px;
+  line-height:30px;
+}
+
+.heading {
+  font-size:28px;
+  padding-bottom:10px;
+  border-bottom:2px solid #636366;
+  margin-top:30px;
+}
+
+.title {
+  color:#383839;
+  margin:0px;
+  margin-top:30px;
+  font-size:22px;
+  padding-bottom:5px;
+  font-weight:bold;
+}
+
+.subtitle {
+  padding-bottom:5px;
+  margin:0px;
+  color:#636366;
+  font-size:19px;
+}
+
+.date {
+  padding-bottom:5px;
+  margin:0px;
+  color:#9E9598;
+  font-style:italic;
+  font-size:17px;
+}
+
+p {
+  font-size:16px;
+  margin-top:5px;
+}
+
+a:link {color:#fff;}
+a:visited {color:#fff;}
+a:hover {color:#636366;text-decoration:underline;}
+a:active {color:#fff;}
+
+
+@media (max-width: 992px;) { 
+  .heading, .title, .date, .subtitle {
+    text-align:center;
+  }
+  
+}</style></head><body>
+<div class="container">
+<div class="row">
+<div class="col-xs-12" id="resHead">
+<h3>The Resume Of</h3>
+<h1>nagashree arun</h1>
+<a href="http://jacobjohnson.net"><h3>JacobJohnson.net</h3></a>
+<img src="http://jacobjohnson.net/img/logo.png" width="20%">
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6" id="workExp">
+
+<div class="col-xs-12 col-md-6" id="skillEdu">
+<h1 class="heading">Skills</h1>
+<h2 class="title">Design</h2>
+<p>Advanced knowledge of Adobe Creative Suite; Photoshop, Illustrator, InDesign, After Effects,
+and Lightroom.</p>
+<h2 class="title">Code</h2>
+<p>Advanced knowledge of HTML5 and CSS3. Experience with building responsive websites with Twitter Bootstrap. Basic knowledge of Javascript and SEO techniques.</p>
+<h1 class="heading">Education</h1>
+<h2 class="subtitle">8.8 CGPA</h2>
+<h3 class="date">aug 2017</h3>
+<h4 class="class">alvas institute of technology</h4>
+<p>Bachelor of engineering in computer science.
+Specialization: Computer science</p>
+</div>
+</div>
+<div class="row">
+<div class="contact col-xs-12">
+<img width="100px" class="img-responsive" src="http://www.jacobjohnson.net/img/letter.png">
+<h1 class="title">Contact</h1>
+<p class="subtitle">
+mysore<br />
+<a href="tel:1-605-261-9968">605.261.9968</a><br />
+<a target="_blank" href="http://www.JacobJohnson.net">www.neenaarun.net</a><br />
+<a href="/cdn-cgi/l/email-protection#6b030e0707042b210a0804092104030518040545050e1f"><span class="__cf_email__" data-cfemail="670f020b0b082709020209060615120949090213">[email&#160;protected]</span></a><br /></p>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body></html>
